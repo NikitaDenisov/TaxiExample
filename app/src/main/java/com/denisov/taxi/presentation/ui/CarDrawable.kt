@@ -59,8 +59,4 @@ class CarDrawable(private val originalBitmap: Bitmap) : Drawable() {
 
     override fun setColorFilter(colorFilter: ColorFilter?) {
     }
-
-    fun checkFieldBounds(fieldWidth: Int, fieldHeight: Int) {
-
-    }
 }
